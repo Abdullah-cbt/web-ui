@@ -52,7 +52,7 @@
   height: 55vh;
   text-align: center;
   align-items: center;
-  background-image: url("/Version-2/img/backgrond.avif");
+  background-image: url("/img/backgrond.avif");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -292,7 +292,7 @@
 
 .contact-section {
   text-align: center;
-  background-image: url(/Version-2/img/backgrond.avif);
+  background-image: url(/img/backgrond.avif);
   background-repeat: no-repeat;
   background-size: cover;
 }
